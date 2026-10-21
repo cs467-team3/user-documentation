@@ -66,6 +66,12 @@ The [Bibliotheksverbund Bayern (BVB)](https://www.bib-bvb.de) provides bibliogra
 
 [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) makes biodiversity literature openly available to the world as part of a global biodiversity community. It is the world’s largest open access digital library for biodiversity literature and archives ([Wikipedia](https://en.wikipedia.org/wiki/Biodiversity\_Heritage\_Library)).
 
+### BibSonomy
+
+[BibSonomy](https://www.bibsonomy.org) is a free social bookmarking and publication-sharing system, where users collect and share bibliographic entries ([Wikipedia](https://en.wikipedia.org/wiki/BibSonomy)).
+
+To search BibSonomy, you need a BibSonomy account and an API key. Log in to BibSonomy, open **Settings**, and copy your API key from the **API** tab. Then, in JabRef, enter your BibSonomy username and API key in TODO.
+
 ### CiteSeerX
 
 {% hint style="warning" %}
